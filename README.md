@@ -1,14 +1,4 @@
-
 <html>
-   <head>
-    <!-- notes be notes -->
-      <!-- more notes of notes -->
-    <style>
-      body {background-color: snow}
-      h1 {color: purple}
-    </style>
-
-  </head>
 <body>
 
   
