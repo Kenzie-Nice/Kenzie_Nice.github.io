@@ -38,10 +38,11 @@ and get the hang of a set amount to make a good taste and caffeine. But as menti
 <h4>
   <p>
     For more coffee tips and tricks, click the link below!
-       <li>Visit our<a href="https://www.caffeluxxe.com/blogs/news/11-tips-for-brewing-better-coffee-at-home"> </a>Coffee</a></li>
   </p>
 </h4>
- 
+ <h5>
+   <li>Visit our<a href="https://www.caffeluxxe.com/blogs/news/11-tips-for-brewing-better-coffee-at-home"></a>Coffee</a></li>
+ </h5>
 
 </body>
 </html>
