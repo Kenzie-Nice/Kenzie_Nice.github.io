@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>Your Page Title</title>
 </head>
-<body style="background-color: light blue;">
+<body style="background-color: red;">
   
 <h1 align="center"><img src="Does-Coffee-Make-You-Gain-Weight-2000-9388988c07d247ae9394b7d5b78eaae9.jpg" alt="Just some coffee" style="width:320px"></h1>
  <h2>How to make a cup of coffee</h2>
@@ -40,10 +40,10 @@ and get the hang of a set amount to make a good taste and caffeine. But as menti
 <h4>
   <p>
     For more coffee tips and tricks, click the link below!
-     <a href="https://www.caffeluxxe.com/blogs/news/11-tips-for-brewing-better-coffee-at-home"> </a>
+       <li>Visit our<a href="https://www.caffeluxxe.com/blogs/news/11-tips-for-brewing-better-coffee-at-home"> </a>Coffee</a>!</li>
   </p>
 </h4>
-
+ 
 
 </body>
 </html>
