@@ -3,7 +3,7 @@
 <head>
     <title>Your Page Title</title>
 </head>
-<body style="background-color: lightblue;">
+<body style="background-color: light blue;">
   
 <h1 align="center"><img src="Does-Coffee-Make-You-Gain-Weight-2000-9388988c07d247ae9394b7d5b78eaae9.jpg" alt="Just some coffee" style="width:320px"></h1>
  <h2>How to make a cup of coffee</h2>
