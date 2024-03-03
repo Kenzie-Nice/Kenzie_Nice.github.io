@@ -41,7 +41,7 @@ and get the hang of a set amount to make a good taste and caffeine. But as menti
   </p>
 </h4>
  <h5>
-   <li>Visit our<a href="https://www.caffeluxxe.com/blogs/news/11-tips-for-brewing-better-coffee-at-home"></a>Coffee</a></li>
+   <li>Visit our <a href="https://www.caffeluxxe.com/blogs/news/11-tips-for-brewing-better-coffee-at-home" target=_"blank"> </a>Coffee</a></li>
  </h5>
 
 </body>
