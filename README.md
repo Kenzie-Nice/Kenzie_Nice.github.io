@@ -1,7 +1,7 @@
 
 <html>
 
-<body style="background-color: blue;">
+<body style="background-color: cyan;">
   
 <h1 align="center"><img src="Does-Coffee-Make-You-Gain-Weight-2000-9388988c07d247ae9394b7d5b78eaae9.jpg" alt="Just some coffee" style="width:520px"></h1>
  <h2>How to make a cup of coffee</h2>
