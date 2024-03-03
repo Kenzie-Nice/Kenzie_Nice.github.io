@@ -1,7 +1,8 @@
 
 <html>
    <head>
-    <!-- Other meta elements -->
+    <!-- notes be notes -->
+      <!-- more notes of notes -->
     <style>
       body {background-color: snow}
       h1 {color: purple}
@@ -11,11 +12,11 @@
 <body>
 
   
-<h1>  <img src="Does-Coffee-Make-You-Gain-Weight-2000-9388988c07d247ae9394b7d5b78eaae9.jpg" alt="Just some coffee" style="width:320px">
+<h1 align="center"><img src="Does-Coffee-Make-You-Gain-Weight-2000-9388988c07d247ae9394b7d5b78eaae9.jpg" alt="Just some coffee" style="width:320px">
   
 </h1>
  <h2>How to make a cup of coffee</h2>
-    <p>
+    <p> 
 Making a simple cup of coffee can often make or break someone's day, so let's start by 
       attempting to make it a good one with a good cup of coffee
         <br />
@@ -27,6 +28,9 @@ Making a simple cup of coffee can often make or break someone's day, so let's st
 
   Feel free to add any flavoring or creams as desired AFTER the coffee has been properly brewed :) 
     </p>
+
+    <!--I'm a note, I'm a note, I am very notey note -->
+    
 
     <h3>Steps</h3>
     <p>
