@@ -1,16 +1,20 @@
 
 <html>
+   <head>
+    <!-- Other meta elements -->
+    <style>
+      body {background-color: snow}
+      h1 {color: purple}
+    </style>
+
+  </head>
 <body>
 
   
 <h1>  <img src="Does-Coffee-Make-You-Gain-Weight-2000-9388988c07d247ae9394b7d5b78eaae9.jpg" alt="Just some coffee" style="width:320px">
-    </h3>
   
 </h1>
-
-
-  
-    <h2>How to make a cup of coffee</h2>
+ <h2>How to make a cup of coffee</h2>
     <p>
 Making a simple cup of coffee can often make or break someone's day, so let's start by 
       attempting to make it a good one with a good cup of coffee
@@ -35,7 +39,7 @@ Making a simple cup of coffee can often make or break someone's day, so let's st
 </ul>
 
 Making a cup too strong is technically a choice, but only some enjoy overly flavorful coffee. So it's important to use your preferred coffee-to-water ratio regularly
-and get the hang of a set amount to make a good taste and caffeinating. But as mentioned, its entirely up to you, if you enjoy a coffee so strong that you cringe, by all means!
+and get the hang of a set amount to make a good taste and caffeine. But as mentioned, its entirely up to you, if you enjoy a coffee so strong that you cringe, by all means!
     </p>
 
 
