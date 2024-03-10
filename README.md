@@ -22,7 +22,7 @@
 
   <h3>Steps</h3>
   <p>
-    After you have prepared your brewing choice of caffeinated goodness, and your setup is complete it's time to start up that coffee maker!
+    After you have prepared your brewing choice of caffeinated goodness and your setup is complete, it's time to start up that coffee maker!
     <hr />
     <ul>
       <li>Using 1TBLS for every 2 cups, scoop your grounds into your filter</li>
@@ -31,7 +31,7 @@
     </ul>
 
     Making a cup too strong is technically a choice, but only some enjoy overly flavorful coffee. So it's important to use your preferred coffee-to-water ratio regularly
-    and get the hang of a set amount to make a good taste and caffeine. But as mentioned, it's entirely up to you, if you enjoy a coffee so strong that you cringe, by all means!
+    and get the hang of a set amount to make a good taste and caffeine. But as mentioned, it's entirely up to you; if you enjoy a coffee so strong that you cringe, by all means!
   </p>
 
   <h4>
@@ -74,7 +74,7 @@
 
     <!-- Textarea -->
     <textarea id="message" name="message" rows="4" cols="50">
-Enter your message here...
+hello
 </textarea><br>
 
     <!-- Button -->
