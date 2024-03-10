@@ -68,6 +68,21 @@
     <input type="radio" id="option2" name="coffee" value="flavor">
     <label for="option2">Easy flavor</label><br>
 
+
+
+
+   <fieldset>
+      <legend>Contact Details</legend>
+      <label>Email:<br />
+         <input type="text" name="email" /></label>
+      <br />
+      <label> Phone:<br />
+         <input type="text" name="telephone" /></label>
+      <br />
+      <label>Mobile:<br />
+         <input type="text" name="mobile" /></label>
+   </fieldset>
+
     <!-- Checkboxes -->
     <input type="checkbox" id="checkbox1" name="checkbox1" value="checkbox1">
     <label for="checkbox1">Milk</label><br>
@@ -76,12 +91,14 @@
 
     <!-- Textarea -->
     <textarea id="message" name="message" rows="4" cols="50">
+  
 hello
 </textarea><br>
 
     <!-- Button -->
     <button type="submit">Submit</button>
   </form>
+
 
 </body>
 
