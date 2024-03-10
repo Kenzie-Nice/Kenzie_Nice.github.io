@@ -71,12 +71,6 @@
 
     <!-- Textarea -->
     <textarea id="message" name="message" rows="4" cols="50">
-
-<h7>
-  <p>
-    Please write to us! Let us know if this site has helped you or not!
-  </p>
-</h7> 
 hello
 </textarea><br>
 
