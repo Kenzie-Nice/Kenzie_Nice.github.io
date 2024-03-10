@@ -43,11 +43,11 @@
     <li>Visit our <a href="https://www.caffeluxxe.com/blogs/news/11-tips-for-brewing-better-coffee-at-home" target="_blank">Coffee</a></li>
   </h5>
 
-<h6>
-  <p>
-     Still trying to decide what you like for coffee? Fill in the questions below to find out!
-  </p>
-</h6>
+  <h6>
+    <p>
+       Still trying to decide what you like for coffee? Fill in the questions below to find out!
+    </p>
+  </h6>
   <!-- Table -->
   <table border="1">
     <tr>
@@ -68,6 +68,11 @@
     <input type="radio" id="option2" name="coffee" value="flavor">
     <label for="option2">Easy flavor</label><br>
 
+    <!-- Checkboxes -->
+    <input type="checkbox" id="checkbox1" name="checkbox1" value="checkbox1">
+    <label for="checkbox1">Milk</label><br>
+    <input type="checkbox" id="checkbox2" name="checkbox2" value="checkbox2">
+    <label for="checkbox2">Sugar</label><br>
 
     <!-- Textarea -->
     <textarea id="message" name="message" rows="4" cols="50">
