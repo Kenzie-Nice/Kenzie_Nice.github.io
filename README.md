@@ -43,9 +43,11 @@
     <li>Visit our <a href="https://www.caffeluxxe.com/blogs/news/11-tips-for-brewing-better-coffee-at-home" target="_blank">Coffee</a></li>
   </h5>
 
-  <!-- Sized Image -->
-  <img src="example.jpg" alt="Sized Image" style="width: 200px; height: 200px;">
-
+<h6>
+  <p>
+     Still trying to decide what you like for coffee? Fill in the questions below to find out!
+  </p>
+</h6>
   <!-- Table -->
   <table border="1">
     <tr>
@@ -69,6 +71,12 @@
 
     <!-- Textarea -->
     <textarea id="message" name="message" rows="4" cols="50">
+
+<h7>
+  <p>
+    Please write to us! Let us know if this site has helped you or not!
+  </p>
+</h7> 
 hello
 </textarea><br>
 
