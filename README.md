@@ -69,7 +69,11 @@
     <label for="option2">Easy flavor</label><br>
 
 
-
+    <!-- Checkboxes -->
+    <input type="checkbox" id="checkbox1" name="checkbox1" value="checkbox1">
+    <label for="checkbox1">Milk</label><br>
+    <input type="checkbox" id="checkbox2" name="checkbox2" value="checkbox2">
+    <label for="checkbox2">Sugar</label><be>
 
    <fieldset>
       <legend>Contact Details</legend>
@@ -83,11 +87,6 @@
          <input type="text" name="mobile" /></label>
    </fieldset>
 
-    <!-- Checkboxes -->
-    <input type="checkbox" id="checkbox1" name="checkbox1" value="checkbox1">
-    <label for="checkbox1">Milk</label><br>
-    <input type="checkbox" id="checkbox2" name="checkbox2" value="checkbox2">
-    <label for="checkbox2">Sugar</label><br>
 
     <!-- Textarea -->
     <textarea id="message" name="message" rows="4" cols="50">
