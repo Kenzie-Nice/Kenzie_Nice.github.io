@@ -63,7 +63,7 @@
     <!-- Radio Buttons -->
     <input type="radio" id="option1" name="option" value="option1">
     <label for="option1">Stronger flavor</label><br>
-    <input type="radio" id="option2" name="option" value="option2">
+    <input type="radio" id="option2" name="coffee" value="flavor">
     <label for="option2">Easy flavor</label><br>
 
 
