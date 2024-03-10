@@ -49,12 +49,12 @@
   <!-- Table -->
   <table border="1">
     <tr>
-      <td>Row 1, Column 1</td>
-      <td>Row 1, Column 2</td>
+      <td>Dark Roast</td>
+      <td>Medium Dark Roast</td>
     </tr>
     <tr>
-      <td>Row 2, Column 1</td>
-      <td>Row 2, Column 2</td>
+      <td>Light Roast</td>
+      <td>Medium Roast</td>
     </tr>
   </table>
 
@@ -62,15 +62,10 @@
   <form>
     <!-- Radio Buttons -->
     <input type="radio" id="option1" name="option" value="option1">
-    <label for="option1">Option 1</label><br>
+    <label for="option1">Stronger flavor</label><br>
     <input type="radio" id="option2" name="option" value="option2">
-    <label for="option2">Option 2</label><br>
+    <label for="option2">Easy flavor</label><br>
 
-    <!-- Checkboxes -->
-    <input type="checkbox" id="checkbox1" name="checkbox1" value="checkbox1">
-    <label for="checkbox1">Checkbox 1</label><br>
-    <input type="checkbox" id="checkbox2" name="checkbox2" value="checkbox2">
-    <label for="checkbox2">Checkbox 2</label><br>
 
     <!-- Textarea -->
     <textarea id="message" name="message" rows="4" cols="50">
