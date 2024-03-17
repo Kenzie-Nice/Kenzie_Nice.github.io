@@ -1,6 +1,5 @@
 <body style="background-color: cyan;">
 
-<!-- Div Element -->
 <div class="container">
     <h1 align="center"><img src="Does-Coffee-Make-You-Gain-Weight-2000-9388988c07d247ae9394b7d5b78eaae9.jpg" alt="Just some coffee" style="width:520px"></h1>
     <h2>How to make a cup of &amp;coffee</h2>
@@ -17,7 +16,6 @@
         Feel free to add any flavoring or creams as desired AFTER the &amp;coffee has been properly brewed :)
     </p>
 
-    <!-- Embedded Audio -->
     <iframe frameborder="0" scrolling="no" src="https://freesound.org/embed/sound/iframe/552401/simple/large/" width="920" height="245"></iframe>
 
     <!--I'm a note, I'm a note, I am very notey note -->
@@ -45,7 +43,7 @@
         <li>Visit our <a href="https://www.caffeluxxe.com/blogs/news/11-tips-for-brewing-better-&amp;coffee-at-home" target="_blank">Coffee</a></li>
     </h5>
 
-    <!-- Video -->
+
     <iframe width="560" height="315" src="https://www.youtube.com/embed/fYSnS69a5R0?si=V37nK4hPww7QsNbz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="display:block; margin:auto;"></iframe>
 
     <h6>
@@ -66,7 +64,6 @@
         </tr>
     </table>
 
-    <!-- Form -->
     <form>
         <!-- Radio Buttons -->
         <input type="radio" id="option1" name="option" value="option1">
@@ -94,17 +91,13 @@
         </fieldset>
 
 
-        <!-- Textarea -->
+  
         <textarea id="message" name="message" rows="4" cols="50">
     
 hello
 </textarea><br>
 
-        <!-- Button -->
         <button type="submit">Submit</button>
     </form>
 </div>
-
-<!-- Span Element -->
-<p>This is a <span class="highlight">highlighted</span> text.</p>
 </body>
