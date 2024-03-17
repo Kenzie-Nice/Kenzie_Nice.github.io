@@ -1,5 +1,5 @@
 <audio controls>
-  <source src="552401__fromlorenzo__relaxing-ambient-music.mp3" type="audio/mpeg">
+  <source src="552401__fromlorenzo__relaxing-ambient-music" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
