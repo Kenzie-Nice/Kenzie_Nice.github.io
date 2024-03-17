@@ -1,18 +1,18 @@
 <body style="background-color: cyan;">
 
 <h1 align="center"><img src="Does-Coffee-Make-You-Gain-Weight-2000-9388988c07d247ae9394b7d5b78eaae9.jpg" alt="Just some coffee" style="width:520px"></h1>
-<h2>How to make a cup of coffee</h2>
+<h2>How to make a cup of &amp;coffee</h2>
 <p>
-  Making a simple cup of coffee can often make or break someone's day, so let's start by 
-  attempting to make it a good one with a good cup of coffee
+  Making a simple cup of &amp;coffee can often make or break someone's day, so let's start by 
+  attempting to make it a good one with a good cup of &amp;coffee
   <br />
   Ingredients
   <ol>
-    <li>Coffee</li>
+    <li>&amp;Coffee</li>
     <li>Water</li>
   </ol>
 
-  Feel free to add any flavoring or creams as desired AFTER the coffee has been properly brewed :)
+  Feel free to add any flavoring or creams as desired AFTER the &amp;coffee has been properly brewed :)
 </p>
 
 <!-- Embedded Audio -->
@@ -23,7 +23,7 @@
 
 <h3>Steps</h3>
 <p>
-  After you have prepared your brewing choice of caffeinated goodness and your setup is complete, it's time to start up that coffee maker!
+  After you have prepared your brewing choice of caffeinated goodness and your setup is complete, it's time to start up that &amp;coffee maker!
   <hr />
   <ul>
     <li>Using 1TBLS for every 2 cups, scoop your grounds into your filter</li>
@@ -31,17 +31,17 @@
     <li>Flip the "ON" switch and sit back and wait</li>
   </ul>
 
-  Making a cup too strong is technically a choice, but only some enjoy overly flavorful coffee. So it's important to use your preferred coffee-to-water ratio regularly
-  and get the hang of a set amount to make a good taste and caffeine. But as mentioned, it's entirely up to you; if you enjoy a coffee so strong that you cringe, by all means!
+  Making a cup too strong is technically a choice, but only some enjoy overly flavorful &amp;coffee. So it's important to use your preferred &amp;coffee-to-water ratio regularly
+  and get the hang of a set amount to make a good taste and caffeine. But as mentioned, it's entirely up to you; if you enjoy a &amp;coffee so strong that you cringe, by all means!
 </p>
 
 <h4>
   <p>
-    For more coffee tips and tricks, click the link below!
+    For more &amp;coffee tips and tricks, click the link below!
   </p>
 </h4>
 <h5>
-  <li>Visit our <a href="https://www.caffeluxxe.com/blogs/news/11-tips-for-brewing-better-coffee-at-home" target="_blank">Coffee</a></li>
+  <li>Visit our <a href="https://www.caffeluxxe.com/blogs/news/11-tips-for-brewing-better-&amp;coffee-at-home" target="_blank">Coffee</a></li>
 </h5>
 
 <!-- Video -->
@@ -49,7 +49,7 @@
 
 <h6>
   <p>
-     Still trying to decide what you like for coffee? Fill in the questions below to find out!
+     Still trying to decide what you like for &amp;coffee? Fill in the questions below to find out!
   </p>
 </h6>
 
@@ -98,11 +98,6 @@
   
 hello
 </textarea><br>
-
-  <!-- Button -->
-  <button type="submit">Submit</button>
-</form>
-</body>
 
   <!-- Button -->
   <button type="submit">Submit</button>
