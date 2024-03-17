@@ -1,7 +1,5 @@
 <body style="background-color: cyan;">
 
-<iframe frameborder="0" scrolling="no" src="https://freesound.org/embed/sound/iframe/552401/simple/large/" width="920" height="245"></iframe>
-
 <h1 align="center"><img src="Does-Coffee-Make-You-Gain-Weight-2000-9388988c07d247ae9394b7d5b78eaae9.jpg" alt="Just some coffee" style="width:520px"></h1>
 <h2>How to make a cup of coffee</h2>
 <p>
@@ -43,11 +41,15 @@
   <li>Visit our <a href="https://www.caffeluxxe.com/blogs/news/11-tips-for-brewing-better-coffee-at-home" target="_blank">Coffee</a></li>
 </h5>
 
+<!-- Video -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen style="display:block; margin:auto;"></iframe>
+
 <h6>
   <p>
-    Still trying to decide what you like for coffee? Fill in the questions below to find out!
+     Still trying to decide what you like for coffee? Fill in the questions below to find out!
   </p>
 </h6>
+
 <!-- Table -->
 <table border="1">
   <tr>
@@ -97,3 +99,4 @@ hello
   <!-- Button -->
   <button type="submit">Submit</button>
 </form>
+</body>
