@@ -22,7 +22,7 @@
 
     <!--I'm a note, I'm a note, I am very notey note -->
 
-    <h3>Steps</h3>
+    <h3><span class="highlight">Steps</span></h3>
     <p>
         After you have prepared your brewing choice of caffeinated goodness and your setup is complete, it's time to start up that &amp;coffee maker!
         <hr />
