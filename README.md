@@ -106,8 +106,3 @@ hello
   <button type="submit">Submit</button>
 </form>
 </body>
-
-  <!-- Button -->
-  <button type="submit">Submit</button>
-</form>
-</body>
