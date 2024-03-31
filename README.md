@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -48,7 +47,7 @@
 </head>
 <body>
     <div class="container">
-        <h1><img src="https://your-image-url.jpg" alt="Just some coffee" style="width:100%"></h1>
+        <h1><img src="https://i.imgur.com/YqRcG4M.jpg" alt="Just some coffee" style="width:520px"></h1>
         <h2>How to make a cup of coffee</h2>
         <p>Making a simple cup of coffee can often make or break someone's day, so let's start by attempting to make it a good one with a good cup of coffee.</p>
         <p><span class="highlight">Ingredients:</span></p>
