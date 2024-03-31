@@ -66,21 +66,7 @@
       <label for="checkbox1">Milk</label><br>
       <input type="checkbox" id="checkbox2" name="checkbox2" value="checkbox2">
       <label for="checkbox2">Sugar</label><br>
-      <fieldset>
-        <legend>Contact Details</legend>
-        <label>Email:<br />
-          <input type="text" name="email" /></label>
-        <br />
-        <label> Phone:<br />
-          <input type="text" name="telephone" /></label>
-        <br />
-        <label>Mobile:<br />
-          <input type="text" name="mobile" /></label>
-      </fieldset>
-      <textarea id="message" name="message" rows="4" cols="50">
-hello
-</textarea><br>
-      <button type="submit">Submit</button>
+     <li>Contact us! <a href="https://www.caffeluxxe.com/blogs/news/11-tips-for-brewing-better-coffee-at-home" target="_blank">Coffee</a></li>
     </form>
   </div>
 </body>
