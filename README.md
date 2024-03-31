@@ -1,16 +1,16 @@
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>Coffee Making Guide</title>
 </head>
-<body style="background-image: url('https://github.com/Kenzie-Nice/Kenzie_Nice.github.io/blob/main/Coffee%20Beans.jpg'); background-size: cover; background-repeat: no-repeat;">
+<body style="background-image: url('https://libreshot.com/wp-content/uploads/2016/03/coffee-beans-861x631.jpg'); background-size: cover; background-repeat: no-repeat;">
   <div class="container">
     <h1 align="center"><img src="Does-Coffee-Make-You-Gain-Weight-2000-9388988c07d247ae9394b7d5b78eaae9.jpg" alt="Just some coffee" style="width:520px"></h1>
     <h2>How to make a cup of coffee</h2>
     <p>
       Making a simple cup of coffee can often make or break someone's day, so let's start by attempting to make it a good one with a good cup of coffee
       <br />
-      Ingredients
+      <span style="color: red;">Ingredients</span>
       <ol>
         <li>Coffee</li>
         <li>Water</li>
