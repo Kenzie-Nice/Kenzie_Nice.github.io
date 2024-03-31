@@ -3,7 +3,7 @@
 <head>
   <title>Coffee Making Guide</title>
 </head>
-<body style="background-color: cyan; background-image: url('https://libreshot.com/wp-content/uploads/2016/03/coffee-beans-861x631.jpg');">
+<body style="background-image: url('https://libreshot.com/wp-content/uploads/2016/03/coffee-beans-861x631.jpg'); background-size: cover; background-repeat: no-repeat;">
   <div class="container">
     <h1 align="center"><img src="Does-Coffee-Make-You-Gain-Weight-2000-9388988c07d247ae9394b7d5b78eaae9.jpg" alt="Just some coffee" style="width:520px"></h1>
     <h2>How to make a cup of coffee</h2>
