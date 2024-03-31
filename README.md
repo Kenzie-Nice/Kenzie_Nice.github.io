@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,9 +7,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-image: url('https://libreshot.com/wp-content/uploads/2016/03/coffee-beans-861x631.jpg');
-            background-size: cover;
-            background-repeat: no-repeat;
+            background-color: #e0f2f1; /* Light blue background */
             margin: 0;
             padding: 0;
         }
@@ -115,3 +113,4 @@
     </ul>
 </body>
 </html>
+
