@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -57,7 +57,7 @@
             <li>Water</li>
         </ol>
         <p>Feel free to add any flavoring or creams as desired AFTER the coffee has been properly brewed :)</p>
-        <iframe frameborder="0" scrolling="no" src="https://freesound.org/embed/sound/iframe/552401/simple/large/" width="920" height="245"></iframe>
+        <iframe frameborder="0" scrolling="no" src="https://freesound.org/embed/sound/iframe/552401/simple/large/" width="620" height="245"></iframe>
         <!--I'm a note, I'm a note, I am very notey note -->
         <h3><span class="highlight">Steps</span></h3>
         <p>
