@@ -106,10 +106,10 @@
             <label for="checkbox2">Sugar</label><br>
         </form>
     </div>
-    <ul class="footer">
-        <li><a href="https://kenzie-nice.github.io/Kenzie_Nice.github.io/">Home Page</a></li>
-        <li><a href="https://kenzie-nice.github.io/Week5.github.io/">Any Questions, comments, or concerns? Contact Us!</a></li>
-        <li><a href="https://kenzie-nice.github.io/About_us.io/">Interested in our origin? About Us!</a></li>
+   <ul>
+        <li> Home Page <a href="https://kenzie-nice.github.io/Kenzie_Nice.github.io/">Home we go!</a></li>
+        <li>Any Questions, comments, or concerns? <a href="https://kenzie-nice.github.io/Contact-Page.io/">Contact Us!</a></li>
+        <li> Interested in our origin?!<a href="https://kenzie-nice.github.io/About_us.io/">About Us!</a></li>
     </ul>
 </body>
 </html>
