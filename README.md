@@ -66,7 +66,7 @@
       <label for="checkbox1">Milk</label><br>
       <input type="checkbox" id="checkbox2" name="checkbox2" value="checkbox2">
       <label for="checkbox2">Sugar</label><br>
-     <li>Contact us! <a href="https://www.caffeluxxe.com/blogs/news/11-tips-for-brewing-better-coffee-at-home" target="_blank">Coffee</a></li>
+     <li>Any Questions, comments, or concerns? <a href="https://kenzie-nice.github.io/Week5.github.io/">Contact Us!</a></li>
     </form>
   </div>
 </body>
